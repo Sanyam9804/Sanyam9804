@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam9804&label=Profile%20views&color=0e75b6&style=flat" alt="sanyam9804" /> </p>
 
-<p align="left"> <a href="https://github.com/Sanyam9804/Sanyam9804"><img src="https://github.com/Sanyam9804/Sanyam9804/?username=sanyam9804" alt="sanyam9804" /></a> </p>
+<p align="left"> <a href="https://github.com/Sanyam9804/Sanyam9804"><img src="![Fancy_Octocat_guide_image](https://github.com/user-attachments/assets/7d756cf4-5630-47ec-919d-abfe308f7c99)
+" alt="sanyam9804" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA**
 
