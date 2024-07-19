@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **PYTHON**
 
 - 📫 How to reach me **samwork1812@gmail.com**
 
