@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam9804&label=Profile%20views&color=0e75b6&style=flat" alt="sanyam9804" /> </p>
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **DSA WITH C++**
 
 - 📫 How to reach me **samwork1812@gmail.com**
 
