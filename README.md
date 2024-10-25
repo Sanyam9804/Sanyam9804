@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://instagram.com/sanyam19kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanyam19kothari" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sanyam1918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sanyam1918" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanyam1918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanyam1918" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanyam_kothari19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanyam1918" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/samworklyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samworklyco" height="30" width="40" /></a>
 </p>
 
