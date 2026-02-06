@@ -26,8 +26,9 @@
 
 ## 📊 GitHub Stats
 
-![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyam9804&show_icons=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanyam9804&show_icons=true&count_private=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam9804&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam9804&layout=compact&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanyam9804)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanyam9804)
+
