@@ -24,11 +24,11 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanyam9804&show_icons=true&count_private=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam9804&layout=compact&cache_seconds=86400)
+## 📊 GitHub Activity
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sanyam9804)
 
