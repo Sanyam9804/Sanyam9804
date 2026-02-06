@@ -1,26 +1,33 @@
-<h1 align="center">Hi 👋, I'm SANYAM KOTHARI</h1>
-<h3 align="center">A passionate coder from India</h3>
+# Hi 👋, I'm Sanyam Kothari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam9804&label=Profile%20views&color=0e75b6&style=flat" alt="sanyam9804" /> </p>
+### Computer Science Engineering Student | Aspiring Software Developer
 
--🌱 I’m currently learning Data Structures & Algorithms in Java and Spring Boot.
+🌱 Currently learning **Data Structures & Algorithms in Java** and **Spring Boot**  
+🎯 Focused on backend development and placement preparation  
+📫 Reach me at: **samwork182004@gmail.com**
 
+---
 
-- 📫 How to reach me **samwork182004@gmail.com**
+## 🔗 Connect with Me
+- Instagram: https://instagram.com/sanyam19kothari  
+- Codeforces: https://codeforces.com/profile/sanyam1918  
+- LeetCode: https://www.leetcode.com/sanyam_kothari19  
+- GeeksforGeeks: https://auth.geeksforgeeks.org/user/samworklyco  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sanyam19kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanyam19kothari" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sanyam1918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sanyam1918" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanyam_kothari19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanyam1918" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/samworklyco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samworklyco" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, C  
+- **Core Skills:** DSA, OOPs, Problem Solving  
+- **Backend:** Spring Boot (learning)  
+- **Tools:** Git, Linux  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyam9804&show_icons=true&locale=en&layout=compact" alt="sanyam9804" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyam9804&show_icons=true&locale=en" alt="sanyam9804" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam9804&" alt="sanyam9804" /></p>
+![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyam9804&show_icons=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam9804&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanyam9804)
