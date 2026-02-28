@@ -24,7 +24,7 @@
 - Java (DSA & OOP)
 - JavaScript (ES6+)
 - Python
-- C
+- C++
 
 ### 📱 Mobile Development
 - React Native (iOS & Android)
