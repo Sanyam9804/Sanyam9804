@@ -11,7 +11,7 @@
 ---
 
 ## 🔗 Connect with Me
-- Instagram: https://instagram.com/sanyam19kothari  
+- LinkedIn: https://www.linkedin.com/in/sanyam-kothari-7207b8341/ 
 - Codeforces: https://codeforces.com/profile/sanyam1918  
 - LeetCode: https://www.leetcode.com/sanyam_kothari19  
 - GeeksforGeeks: https://auth.geeksforgeeks.org/user/samworklyco  
