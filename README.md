@@ -33,13 +33,6 @@
 
 * Java (DSA & OOP)
 * Python
-* JavaScript
-
-### 🌐 Development
-
-* React.js
-* React Native
-* HTML, CSS
 
 ---
 
