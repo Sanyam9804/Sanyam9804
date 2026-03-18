@@ -20,19 +20,6 @@
 
 ---
 
-## 🚀 Key Projects
-
-### 📊 Sales Analysis & Forecasting
-
-* Analyzed retail sales data using **Python (Pandas)**
-* Built interactive **Power BI dashboard**
-* Generated business insights & trends
-* Applied **Machine Learning (Linear Regression)** for forecasting
-
-👉 Add your project repo link here
-
----
-
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analytics
