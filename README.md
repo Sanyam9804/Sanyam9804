@@ -182,12 +182,6 @@ print(me.seeking())
 <!-- Streak Stats with New Theme -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanyam9804&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 
-<!-- GitHub Stats Card -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanyam9804&show_icons=true&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam9804&layout=compact&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
 <!-- Trophy -->
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Sanyam9804&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 
@@ -296,21 +290,6 @@ mindmap
 
 <!-- Quote Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
-</div>
-
-<br/>
-
-<!-- Footer -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
 
 ### 🤝 Open for Collaborations & Opportunities
 
