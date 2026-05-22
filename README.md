@@ -202,27 +202,11 @@ print(me.seeking())
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://codeforces.com/profile/sanyam1918">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="64"/>
-<br><b>Codeforces</b>
-<br><br>
-<img src="https://img.shields.io/badge/Rating-Newbie-green?style=for-the-badge" />
-</a>
-</td>
-<td align="center" width="33%">
 <a href="https://leetcode.com/sanyam_kothari19">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="64"/>
 <br><b>LeetCode</b>
 <br><br>
 <img src="https://img.shields.io/badge/Problems-100+-orange?style=for-the-badge" />
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://auth.geeksforgeeks.org/user/samworklyco">
-<img src="https://img.icons8.com/color/96/000000/GeeksforGeeks.png" width="64"/>
-<br><b>GeeksforGeeks</b>
-<br><br>
-<img src="https://img.shields.io/badge/Problems-Solved-success?style=for-the-badge" />
 </a>
 </td>
 </tr>
