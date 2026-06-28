@@ -1,308 +1,237 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanyam%20Kothari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sanyam%20Kothari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Application%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing Animation with Multiple Lines -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Data+Scientist+%F0%9F%93%8A+%7C+ML+Engineer+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%92%A1;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-<!-- Profile Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-blueviolet?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lives-Ajmer,%20India-success?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-orange?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
-
-<!-- Social Links with Hover Effects -->
-<p>
-  <a href="https://www.linkedin.com/in/sanyam-kothari-7207b8341/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:samwork182004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sanyam9804">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/sanyam_kothari19">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
-<!-- Profile View Counter -->
-<img src="https://komarev.com/ghpvc/?username=Sanyam9804&label=Profile%20Views&color=blueviolet&style=flat-square" />
-
-</div>
+<a href="https://github.com/Sanyam9804">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Applications;Agentic+AI+%7C+LLMs+%7C+Google+Gemini;Python+%7C+FastAPI+%7C+Streamlit+Developer;Turning+Prompts+into+Intelligent+Systems" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- About Me Section with Gradient -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<a href="https://www.linkedin.com/in/sanyam-kothari-7207b8341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/sanyam_kothari19"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:samwork182004@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Sanyam9804"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
+<img src="https://komarev.com/ghpvc/?username=Sanyam9804&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
+
+## 👨‍💻 About Me
 
 ```python
-class DataScientist:
+class AIEngineer:
     def __init__(self):
         self.name = "Sanyam Kothari"
-        self.role = "Data Scientist & ML Engineer"
-        self.location = "Ajmer, Rajasthan 🇮🇳"
-        self.education = "B.Tech CSE Student"
-        self.passion = "Transforming Data into Actionable Insights"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "Java", "SQL", "JavaScript"],
-            "data_science": ["Pandas", "NumPy", "Scikit-Learn", "TensorFlow"],
-            "visualization": ["Matplotlib", "Seaborn", "Power BI", "Plotly"],
-            "databases": ["MySQL", "PostgreSQL", "MongoDB"],
-            "tools": ["Jupyter", "Git", "VS Code", "Google Colab"],
-            "specialties": ["Machine Learning", "Deep Learning", "EDA", "Statistical Analysis"]
-        }
-    
-    def current_mission(self):
-        return [
-            "🔬 Building end-to-end ML pipelines",
-            "📊 Analyzing complex datasets for insights",
-            "🧠 Mastering Deep Learning & Neural Networks",
-            "💻 Solving 500+ DSA problems",
-            "🚀 Contributing to Open Source"
+        self.location = "Rajasthan, India"
+        self.education = "B.Tech CSE @ Poornima Institute of Engineering and Technology (Batch 2027)"
+        self.role = "Agentic AI Engineer | Python Developer | AI Application Developer"
+        self.focus = [
+            "Agentic AI", "Large Language Models (LLMs)", "Google Gemini",
+            "Prompt Engineering", "AI Workflows", "Tool Calling",
+            "Python Development", "Backend APIs"
         ]
-    
-    def seeking(self):
-        return "Data Science | ML Engineer | Research Internships 🎯"
+        self.goal = "Building production-ready AI applications"
 
-# Initialize
-me = DataScientist()
-print(me.seeking())
+    def say_hi(self):
+        print("Thanks for visiting my profile — let's build something intelligent!")
+
+me = AIEngineer()
+me.say_hi()
 ```
 
 <br/>
 
-<!-- Tech Stack Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tech Arsenal
-
-<div align="center">
-
-### 🐍 Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### 🤖 Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
-### 📊 Data Visualization & BI
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-</div>
-
-<br/>
-
-<!-- Skills Section with Icons -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎯 Core Competencies
-
-<div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/data-science.png" width="64"/>
-<br><b>Data Science</b>
-<br><br>
-• Data Wrangling<br>
-• Statistical Analysis<br>
-• EDA & Feature Engineering<br>
-• A/B Testing<br>
-• Predictive Modeling
+<td valign="top" width="50%">
+
+### 🚀 Currently Exploring
+- 🤖 Agentic AI systems & multi-agent workflows
+- 🧠 Large Language Models (LLMs) & Google Gemini
+- ✍️ Prompt Engineering & Tool Calling
+- 🔗 AI workflow orchestration
+- 🐍 Python backend development
+- ☕ Java Data Structures & Algorithms
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="64"/>
-<br><b>Machine Learning</b>
-<br><br>
-• Supervised Learning<br>
-• Deep Learning<br>
-• Model Optimization<br>
-• Cross-Validation<br>
-• Ensemble Methods
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/database.png" width="64"/>
-<br><b>Data Engineering</b>
-<br><br>
-• SQL Optimization<br>
-• ETL Pipelines<br>
-• Database Design<br>
-• Data Warehousing<br>
-• Big Data Processing
+<td valign="top" width="50%">
+
+### 🎯 Career Goal
+> Becoming an **AI Engineer** who designs and ships
+> production-ready AI applications — combining LLMs,
+> agentic workflows, and solid backend engineering
+> into real-world products.
+
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Programming Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**AI / LLM Engineering**
+
+<img src="https://img.shields.io/badge/Google_Gemini-8E44AD?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2E2E2E?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-5B2C87?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-7B2FF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-4B0082?style=for-the-badge"/>
+
+**Backend & APIs**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+**Databases**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+**Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-<!-- GitHub Stats Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [MandelStore AI](https://github.com/Sanyam9804/MandelStore-AI)
+**Agentic AI Customer Support Assistant**
+
+An AI agent built with Google Gemini that handles customer support workflows using tool calling and agentic reasoning.
+
+`Python` `Google Gemini` `Streamlit` `Tool Calling` `AI Agent`
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ CardioRisk AI
+**Heart Disease Prediction System**
+
+A machine learning system predicting heart disease risk, with model explainability and an API layer for serving predictions.
+
+`Python` `XGBoost` `SHAP` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ Google Map Challenges
+**Road Classification using OpenStreetMap**
+
+Geospatial data project focused on classifying road types using OpenStreetMap data.
+
+`Python` `OpenStreetMap` `Geospatial Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+### 📌 More on GitHub
+Explore the full collection of projects, experiments, and code.
+
+<a href="https://github.com/Sanyam9804?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<!-- Streak Stats with New Theme -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanyam9804&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 
-<!-- Trophy -->
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Sanyam9804&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sanyam9804&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanyam9804&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2" width="49%"/>
 
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyam9804&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam9804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9" width="40%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyam9804&theme=react-dark&hide_border=true&bg_color=0d1117&color=8a2be2&line=8a2be2&point=ffffff" width="98%"/>
 
 </div>
 
-<br/>
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sanyam9804&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+</div>
+</details>
 
-<!-- Competitive Programming Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🏆 Competitive Programming
+## 🧩 LeetCode
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://leetcode.com/sanyam_kothari19">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="64"/>
-<br><b>LeetCode</b>
-<br><br>
-<img src="https://img.shields.io/badge/Problems-100+-orange?style=for-the-badge" />
-</a>
-</td>
-</tr>
-</table>
-
+<img src="https://leetcard.jacoblin.cool/sanyam_kothari19?theme=dark&font=Fira%20Code&ext=heatmap" width="60%"/>
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-<!-- Current Focus Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🧭 AI Engineer Roadmap
 
-## 🌟 Current Focus
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-mindmap
-  root((Sanyam<br/>Kothari))
-    Data Science
-      EDA & Visualization
-      Statistical Modeling
-      Feature Engineering
-    Machine Learning
-      Supervised Learning
-      Deep Learning
-      Model Deployment
-    Development
-      Python Projects
-      Web Development
-      API Integration
-    Problem Solving
-      DSA in Java
-      LeetCode Daily
-      Code Optimization
+```
+┌──────────────────────────────────────────────────────────┐
+│  Foundations    →  Python, SQL, Java DSA, Git/GitHub      │
+│  Core AI        →  Prompt Engineering, Google Gemini API  │
+│  Agentic AI     →  Tool Calling, LangChain, LangGraph     │
+│  Multi-Agent    →  CrewAI, Agent Orchestration            │
+│  Knowledge AI   →  RAG Pipelines, Vector Retrieval         │
+│  Backend Layer  →  FastAPI, REST APIs, Streamlit UIs       │
+│  Production AI  →  Deployable, Real-World AI Applications  │
+└──────────────────────────────────────────────────────────┘
 ```
 
-</div>
+**📚 Currently Learning**
+- 🔹 Advanced Agentic AI architectures (LangGraph, CrewAI)
+- 🔹 Retrieval-Augmented Generation (RAG) pipelines
+- 🔹 Scalable backend systems with FastAPI
+- 🔹 Java Data Structures & Algorithms
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-### 🔭 Working On
-- 🚀 End-to-end ML Projects
-- 📊 Real-world Data Analysis
-- 🧠 Deep Learning Models
-- 💼 Building Portfolio Projects
+## 📫 Let's Connect
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🌱 Learning
-- 🤖 Advanced ML Algorithms
-- 📈 Time Series Analysis
-- 🧪 MLOps & Deployment
-- ☁️ Cloud Computing (AWS)
+I'm always open to discussing **Agentic AI, LLM applications, and Python backend engineering**.
+Feel free to reach out for collaborations, opportunities, or just to talk AI!
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Quote Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### 🤝 Open for Collaborations & Opportunities
-
-<p>
-<b>💼 Looking for:</b> Data Science Internships | ML Engineer Roles | Research Opportunities
-</p>
-
-<p>
-<b>🎯 Interests:</b> Machine Learning • Deep Learning • Data Analytics • Computer Vision • NLP
-</p>
-
-<br/>
-
-### 📫 Let's Connect and Build Something Amazing!
-
-<a href="https://www.linkedin.com/in/sanyam-kothari-7207b8341/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:samwork182004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Sanyam9804">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-**⭐️ From [Sanyam9804](https://github.com/Sanyam9804) | Made with 💙 and ☕**
+<a href="https://www.linkedin.com/in/sanyam-kothari-7207b8341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/sanyam_kothari19"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:samwork182004@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Sanyam9804"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
