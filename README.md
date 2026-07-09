@@ -198,18 +198,6 @@ Explore the full collection of projects, experiments, and code.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&section=header" width="100%"/>
 
-## 🧭 AI Engineer Roadmap
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  Foundations    →  Python, SQL, Java DSA, Git/GitHub      │
-│  Core AI        →  Prompt Engineering, Google Gemini API  │
-│  Agentic AI     →  Tool Calling, LangChain, LangGraph     │
-│  Multi-Agent    →  CrewAI, Agent Orchestration            │
-│  Knowledge AI   →  RAG Pipelines, Vector Retrieval         │
-│  Backend Layer  →  FastAPI, REST APIs, Streamlit UIs       │
-│  Production AI  →  Deployable, Real-World AI Applications  │
-└──────────────────────────────────────────────────────────┘
 ```
 
 **📚 Currently Learning**
